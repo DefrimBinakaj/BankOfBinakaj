@@ -1,0 +1,12 @@
+[package]
+name = "sqliteprac"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bcrypt = "0.12.0"
+chrono = "0.4.23"
+sqlite = "0.25.0"
+rust-argon2 = "0.5"
